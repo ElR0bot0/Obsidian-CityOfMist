@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "8fe0fc54a10728cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbadeb1453e0f8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eab2bc9f4608adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Campagin 1/PCs/Soren Voda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soren Voda"
+            }
+          },
+          {
+            "id": "19dd8b3b857edc4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo se perdio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo se perdio"
+            }
+          },
+          {
+            "id": "a96c16e0122ca410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Personalized/Cult of the God King (C'U).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of the God King (C'U)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e47f6af35e8601f",
+    "type": "split",
+    "children": [
+      {
+        "id": "31bcad40f2ec57fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ed2fd22253391d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ab63808f88445a9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Premade/\" ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ccac1a9e2849fd14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312
+  },
+  "right": {
+    "id": "e11bd422180bf7be",
+    "type": "split",
+    "children": [
+      {
+        "id": "59e40a3c44185daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c825ad2c9ec15db0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PCs/Zack Ryder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zack Ryder"
+            }
+          },
+          {
+            "id": "e9bedeb80690cd55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCs/Zack Ryder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Zack Ryder"
+            }
+          },
+          {
+            "id": "8a1d9bf298f5e39f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "110e14938351bba4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCs/Zack Ryder.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Zack Ryder"
+            }
+          },
+          {
+            "id": "4e344f63b668b440",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "5461f21ab1236161",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8b99f686b4865ec",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c8ed2fd22253391d",
+  "lastOpenFiles": [
+    "README.md",
+    "Todo se perdio.md",
+    "@Glosary/Mist.md",
+    "Name List.md",
+    "Cases/An entangle of greed and desire/1. Everything that grows/Locations/The 12th precinct.md",
+    "Cases/An entangle of greed and desire/1. Everything that grows/Characters/Jill Willow.md",
+    "Groups/Campagin 1/Sessiones e ideas/Prepping.md",
+    "Groups/Campagin 1/Sessiones e ideas/Drawing Board.md",
+    "Groups/Campaign 2/Prepping.md",
+    "Groups/Campaign 2/Random Tables/Tipos De misiones.md",
+    "Groups/Campagin 1/PCs/Soren Voda.md",
+    "Groups/Campaign 2/Random Tables",
+    "Groups/Campagin 1/Sessiones e ideas/Cases/Unstuck corner.md",
+    "Groups/Campagin 1/Sessiones e ideas/Cases/Powermonger Branch/Custom Cult of the god king/@Iceberg CoTGK.md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Personalized/Cult of the God King (C'U).md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Personalized/Iceberg (C).md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Original/Aftermath.md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Original/Cult of the God King.md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Original/Iceberg.md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Original/THE INITIATE’S CHANT.md",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Personalized",
+    "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Original",
+    "Groups/Campagin 1/Sessiones e ideas/Series resources/Story Elements.md",
+    "Groups/Campagin 1/Sessiones e ideas/Series resources/Series Resources.md",
+    "Groups/Campagin 1/Sessiones e ideas/Series resources/Burning questions.md",
+    "Groups/Campagin 1/Sessiones e ideas/@Checklist/Preparacion.md",
+    "Groups/Campagin 1/Sessiones e ideas/@Checklist/Factions.md",
+    "Groups/Campagin 1/Sessiones e ideas/@Checklist/Chacklist de mapas.md",
+    "Groups/Campagin 1/Sessiones e ideas/@Checklist/Beats Checklist.md",
+    "Groups/Campagin 1/Sessiones e ideas/Cases/Powermonger Branch/Custom Cult of the god king",
+    "Groups/Campagin 1/Sessiones e ideas/Cases/Powermonger Branch",
+    "@Cheatsheets",
+    "Groups/Campaign 2/NPCs",
+    "Groups/Campaign 2/PCs",
+    "Groups/Campaign 2",
+    "Imagenes/Pasted image 20260220211238.png",
+    "Imagenes/Pasted image 20260220211230.png",
+    "Imagenes/Pasted image 20260220211220.png",
+    "Imagenes/Pasted image 20260220211202.png",
+    "Imagenes/Pasted image 20260220211145.png",
+    "Imagenes/Pasted image 20260220211134.png",
+    "Imagenes/Pasted image 20260220203743.png",
+    "Imagenes/Pasted image 20260220203736.png",
+    "Imagenes/Pasted image 20260220203728.png",
+    "Imagenes/Pasted image 20260220203712.png",
+    "Dungeons",
+    "PCs/Untitled.canvas"
+  ]
+}
