@@ -1,0 +1,9 @@
+# THEMES AND MOTIFS
+-  **Private Investigation:** The Personal Vein focuses on individuals rather than the City as a whole. It highlights the everyday lives and hardships of City residents, and especially Rifts caught in the net of Mending the Broken. The cases in this vein are the closest to the classic noir style
+-  **Emotional overload and mental health:** Dr. Krystal Knight herself and NPCs in this vein affected by Mending the Broken all deal with various forms of emotional hardship including despair, self-contempt, melancholy, and more. The PCs are also subjected to Mythos powers that can cause emotional overload.
+- **Hatred and Self-Loathing:** In the tale of the Snow Queen, shards of the devil-glass cause people to see everything as ugly, and therefore hate one another. In this modern version, Dr. Knight
+- **Broken Glass:** You can use broken glass as a recurring motif in this vein. Work into your narrative freak accidents regarding shards of glass to build up suspense. Whenever someone dies of a cause that is related to Krystal Knight’s minions and the hate they spread, have it include the motif of broken glass: someone crashes through a high window and falls to their death in a shower of broken glass, a fire started by the sun focusing on a broken window causes a disaster, or someone gets violent with a broken glass bottle, etc.
+# Cases:
+- [[Killing her softly]]: A whodunnit murder case revolving around a singer who kills her listeners with despair and the skinhead that wants to help her but gets framed for the murders.
+- [[Carnival of Machines]]: A murder mystery turned murder attempt against the crew when they become the new targets of the mechanical genius that wants tog et rid of rifts.
+- [[Broken Glass]]: A personal drama turned city-wide conspiracy that might dictate the fate of the city

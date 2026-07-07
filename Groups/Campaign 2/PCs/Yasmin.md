@@ -1,0 +1,3 @@
+- Pop star with multiple personality disorder
+	- Sometimes "*Sek*" takes over her. She is unstable
+- Its petty and fabulous

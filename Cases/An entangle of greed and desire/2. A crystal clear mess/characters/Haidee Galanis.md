@@ -1,0 +1,1 @@
+Rift of Hera and obfuscated wife who want to go back to her normal life by making sure the person that took it away from her is gone forever. In her day to day life she is a wedding and event planner and likes to be in control of everything.

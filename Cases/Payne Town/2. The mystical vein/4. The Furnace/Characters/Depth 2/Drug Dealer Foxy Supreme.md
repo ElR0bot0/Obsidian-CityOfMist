@@ -1,0 +1,16 @@
+```
+Shimmering blue in the hard neon light, Foxy Supreme’s poised figure is snuggled in a lavish white fur coat and a sparkling, diamond-like mini dress. From the way she moves, placing every high-heeled step softly in front of the other, you’re guessing her moniker is well-deserved. Her eyes, framed in loose blonde curls, hunt down yours; you get the feeling if anyone survives the night, it’s going to be her.
+```
+# Background
+Foxy Supreme is a dangerous, nihilist, drop-dead-gorgeous drug dealer and a veteran Rift. She worked for the original Gingerbread Witch, Rosina Leckermaul, and then switched allegiances to Rachel Woods (Gretel) when the latter pushed her old boss into the furnace. For the past month, she has been distributing more Candy than ever for her new boss, earning herself a small fortune. She knows such greed is bound to backfire but she doesn’t care because thanks to her Mythos and her resourcefulness, no one can ever catch her — or at least, so she believes
+
+Locating this high-caliber criminal is a challenge. PCs will need their street smarts and underworld connections to arrange a meeting with her. If they come across as potential Candy buyers rather than a threat, they will get more cooperation from Foxy’s associates (such as Carter in the Bowl fight club)
+- If a meeting is set up, it will take place at a City location away from prying eyes: under a highway bridge, on a rooftop, in an empty parking lot overlooking the bay, or in a smokey alley.
+- If the crew catches Foxy off guard, she may be at a luxurious hotel room or down at the Elixir, a suave lounge bar, both of which could be located in the Tourist Trap district.
+**[[Foxy Supreme]] is a cunning and adaptive crook.** An interaction with her is just as likely to end with her escaping or with one of the PCs taking Candy (leading to Trippin’) as with the crew obtaining useful information. Foxy will use her hard move to read the PCs and offer them their heart’s desire, triggering Mysteries and Identities like there’s no tomorrow. If the crew somehow gets her to talk, she knows a good deal about the Candy operation.
+# Clues
+- Foxy gets Candy delivered by the Underhand Naga Gang. She made it her business to know where [[The Candy Drug Lab]] is located, although she never speaks about it or visits it.
+- Foxy doesn’t use Candy. She knows that people who use it somehow get everything they want for a short while but then lose their powers. She’s got better ways of getting what she wants.
+- Foxy keeps track of her dealers, but not their clients, for deniability. She knows nothing of Will, Juan, or Charlie, where they got their Candy, or where they’ve been afterwards.\
+- Before Leckermaul was replaced, things worked differently. She was instructed to send high-volume customers directly to the “Factory” at the [[The Aurora Glassworks old Factory|old Aurora Glassworks factory]]. She never saw them again. Since the new version of Candy arrived they’ve been driving more of it, but people don’t use it for long. It’s not ideal for her business, but she’s rolling with it for now.
+- Foxy and Leckermaul were friends, as much as people in this business can be. She suspected Leckermaul was behind Candy. A few weeks ago the Underhand Naga Gang brought the zoned-out old lady to Foxy; someone took Leckermaul out of the game.

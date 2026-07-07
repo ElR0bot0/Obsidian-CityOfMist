@@ -1,0 +1,16 @@
+```
+Something bends and twists when you approach the corner of Charlie’s room; you’re not sure if it’s the walls, space itself, or your mind. On the other side of that gut-wrenching feeling, red brick walls tower dozens of feet overhead and stretch as far as that into the dark. Several gigantic piles of toys – action figures, models of vehicles, toy bricks of all kinds – create a topographical terrain that rolls onto an expansive wall-to-wall carpet. In between them, there sits a young boy, playing, until he notices you and shouts: “Do you have more candy? I want more CANDY!”
+```
+# Dangers
+
+| ![[Pasted image 20240909114644.png]] | ![[Pasted image 20240909114649.png]] |
+| ------------------------------------ | ------------------------------------ |
+
+# Background
+Charlie Littles is a mean bully and a boy Rift who, thanks to his “voodoo” doll Mythos, can manipulate people and objects by moving any small model that resembles them. Charlie stole Candy from Will Harris using her son Albert (who attends the same school as Charlie) and discovered it can grant his wishes, so he wished for toys, lots of toys, and a toy room big enough to hold them. He has spent hours of fun in his magical toy room in the past week but now, as his toys are beginning to fade away and the toy room is starting to shrink back to its original form (a corner in his small bedroom), Charlie is desperately craving more Candy
+
+The crew may arrive here if they heard rumors that indicate wish-fulfillment is involved, if they chemically or magically traced the Candy here, or if they follow the lead from Albert, Will Harris’ son. The action elements in this scene can provide a change of pace from the investigation, while rewarding the crew with plot-propelling information.
+
+The Littles are a family of four who live in a modest 3-bedroom apartment not far from Will and Albert Harris. All other family members are Sleepers and have no idea that Charlie’s toy corner has turned into a giant toy room: they simply don’t remember this corner being so roomy, or when they bought all these toys. For Rifts, the toy room is the size of a large hotel lobby, accessed through Charlie’s room corner. At its center, amid piles of toys, sits Charlie, a freckled plump boy with a mop of brown hair.
+## Charlie's plan
+When he began desiring more Candy, Charlie came to see the psychedelic moonlit pebbles and followed them to the factory. However, he was too afraid to enter. Charlie is now shopping for appropriate Rift bodyguards to accompany him to the furnace. When he notices Rifts entering his Conjured room, Charlie will seek the strongest ones among them and immediately try to take control over them. Charlie is cruel as only kids can be; he will even threaten to hurt one PC if another doesn’t do as he says, or use one PC to hurt another. He will later lead controlled Rifts to [[the old Aurora Glassworks factory]] to serve as his bodyguards and buyers to get more Candy. Note that this way, Charlie can potentially allow the crew to skip the second Depth.

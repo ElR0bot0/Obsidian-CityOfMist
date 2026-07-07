@@ -1,0 +1,19 @@
+```
+Hans’ loft boasts a panoramic view of a grim industrial landscape. Instead of overlooking skyscrapers, the top-floor open-space pad is beset by cooling towers and rusted silos dotted with slow-pulsing red warning lights. Inside, the renovated loft would seem fancy, except for the random piles of turned-out pocket content and laundry covering everything, from the new sofa to the expansive modern kitchen island. This guy is a serious slob, so how the hell can he afford all this?
+```
+# Background
+Hans Woods is the brother of the new Gingerbread Witch, Rachel Woods, and the biggest chink in her armor. Beneath the chilled-out, groovy DJ facade, he is haunted by guilt over his part in his sister’s operation. He’s been using Candy to distract himself by living out the life he always wanted when he was just a street rat, but in doing so, he draws attention to himself as the only Candy user who had gone missing (when Leckermaul got him and his sister) yet did not lose his powers.
+
+Whether the crew learns of Hans from rumors in the Rift underworld or Hans turns to the crew for help himself, they may end up here trying to get more information from him or even catch him.
+# Clues
+## Investigating the Loft
+- The place seems to have undergone extensive renovations recently. Before the renovation, it was nothing but an abandoned dump, more suitable for broke squatters than a superstar DJ. Beyond the Mist, it is laced with Candy wish-fulfillment magic.
+- There’s an extra room reserved for a young woman, to judge by the clothes in the wardrobe. It does not seem to be lived in. Seeing as it is a separate room, it is most likely not intended for a lover but for a friend or a family member. Psychometry and divinatory powers can reveal some of the siblings’ past and point to [[The Aurora Glassworks old Factory|the old Aurora Glassworks factory]], where the trail ends abruptly.
+- There’s Candy and Candy wrappers everywhere, as if Hans has a lifetime supply. This may contradict his previous claims that he has come to Leckermaul’s house for more Candy
+## Investigating Hans
+Between repressing his own guilt and protecting his sister, Hans will try to avoid any direct questions by the crew; give him **hiding-something-2** or **avoiding-thesubject-1** if the crew hasn’t given him a good reason to open up. The following clues represent what Hans knows, not necessarily what he is willing to reveal.
+- Hans’s sister, Rachel, took over the Candy business from Leckermaul, after Leckermaul tried to get her in a furnace. Hans doesn’t know what the furnace does, only that Leckermaul came out “alive and braindead”. Rachel approached the people Leckermaul was working with when they came to collect and got to run the show, but Hans doesn’t know who they are.
+- When Hans and Rachel got hooked on Candy, their dealer at the time, [[Foxy Supreme]], pointed them to [[The Aurora Glassworks old Factory|the old Aurora Glassworks factory]], where “a magical door” took them to “another world”. That was when Leckermaul forced them into cages.
+- Hans feels guilty. Instead of standing up to his sister as he should have, he let her use witchcraft to borrow some of his ability and put it into her Candy, leading her victims straight to her.
+- Hans thinks Rachel isn’t a bad person. She is just a go-getter, a survivor who is trying to make the best of her situation and who is haunted by the years she spent hungry on the streets with nothing to eat. He is worried, however, that she’s done some very bad things.
+- Hans is always able to find his way back “home”, no matter how lost he is. “Home” is a feeling which he currently feels toward his loft and his sister, so he is able to travel to and from [[The Gingerbread House]] Enclave, although he hasn’t been there since he helped improve the Candy recipe. He is able to bring along one more person.

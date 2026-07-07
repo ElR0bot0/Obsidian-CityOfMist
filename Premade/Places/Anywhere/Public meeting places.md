@@ -1,0 +1,1 @@
+Barton uses public spaces to make spearheads talk to each other and exchange information and stories. He can even be meeting them himself. Some of his favorite places are the chess tables and the movie theaters.

@@ -1,0 +1,53 @@
+- [x] Terminar la lista
+- [ ] hacer un overview de la siguiente sesion
+	- Decirle sobre unos casos de actividad rift que han estado plagando la ciudad en los cuales hay cierta poderosa magia que esta dandole a la gente lo que uiere.
+	- 
+- [ ] Hacer un caso para el redemption de Rukas
+    - Podria usar "the furnace", usar los deseos como una forma rapida de conseguir lo que quiere.
+	    - Tendría que preguntarme como hacer para dejarlo ahi y no conectarlo a los otros casos, releer el libro o pensarlo yo solo.
+		    - Se me ocurre entonces dejar de lado la conexion con el culto y simplemente dejar el que los tinctures se llamen "Escencias".
+		    - Que Rachel este haciendo esto para poder revivir a sus padres que murió cuando los dos hermanos eran pequeños y ella convencio a su hermano a ir a una fabrica abandonada, sus padres los siguieron y murieron por un fallo en la estructura.
+			    - Esta es la misma fabrica en la que estan ahora.
+	- [ ] hacer los mapas
+		- [ ] Hacer el mapa de la casa de la viejita (Leckermaul)
+		- [ ] Hacer el mapa de la casa de Will harris
+		- [ ] Hacer el mapa de el cuarto de juegos de Charlie
+		- [ ] Hacer el mapa de la guarida de Hans
+		- [ ] Hacer el mapa de el laboratorio de Candy
+		- [ ] Hacer el mapa de la factory
+	- [ ] Hacer un hook
+		- Se me ocurre que coja y Rukas este buscando diferentes fromas de ayudar a su mujer, 
+- [ ] hacer una pestaña con la party y sus misterios e identidades  y pensar en formas de desafiarlos
+- [ ] Pensar en como seguir el caso de Trendsetters
+	- [ ] Pensar en como conectarlo a Amanda Barnes o al grupo aguilar
+		-  
+- [ ] Pensar en un caso que los lleve a el bird sanctuary
+	- 
+- [ ] Hacer el conspiracy board bien
+- [ ] Leer el caso de Colonia de las sombras en local legends
+- [ ] Poner las cosas de los libros en el vtt
+	- [ ] put moments of evolution of shadows and showndowns
+	- [ ] Poner las preguntas en los themes
+	- [ ] Poner todos los dangers del juego
+		- [ ] Poner los dangers del MC
+		- [ ] Poner los dangers de shadows and showdowns
+			- [ ] Sacarle el arte a 
+				- [ ] Los horned snakes
+				- [ ] Undercity SPirits
+		- [ ] Poner los dangers de Nights of payen town
+		- [ ] Poner los dangers de local legends
+	- [ ] Poner los theme kits
+- [ ] Pasar el personaje de shmitty al juego(Falta el nuevo theme de relationship)
+	- [x] Tomar nota de los cambios que hacer
+		- There are too many broad tags
+			- Revisar bien la definicion de broad tags y ponerla aqui
+- [ ] Hacer el themekit de Jill
+- [ ] Hacer el themekit de la crew
+- [x] Como se une esta vieja a la crew?
+	- Ok, empezamos con ella despertándose de el hospital, con una carta en su mesita de noche y un pager.
+	- La carta dice:
+- [ ] Hace un side case para estos manes despues de el encuentro en el bowl
+	- Se me ocurre hacer un case de Kwaku
+		- Usar un Tar baby
+		- Usar
+	- Tambien puedo simplemente ponerles "Killing her softly" 

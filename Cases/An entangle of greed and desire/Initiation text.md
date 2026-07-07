@@ -1,0 +1,5 @@
+Here is the discord link: https://discord.gg/EnjffYEGyV
+In case it does not work this is my discord id: elr0bot0
+Once enough players have joined I will send out the safety tools document
+
+"The memory is faint but left a mark on you. You were in the middle of a job, a petty revenge, or maybe just minding your business; hell, you would swear it was a dream if not for the pager that sits now in your pocket. But wherever you were it didn't matter at the moment as the only thing you can remember clearly was a feeling of being "pulled out", all of the noises coming to a stop and your senses focusing on the presence that was watching you. With a silky voice, this person offered you a "job", a way to pay the bills he said. As you gave up on trying to make sense of the situation you stipulated your terms and they gave you theirs. With what you could vaguely decipher as a smile in the middle of a memory of a blurry face the man gave you a pager and bid you farewell, telling you that he would be in contact."

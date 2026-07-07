@@ -1,0 +1,1 @@
+• Downtown beat officers Das and Quinn, who feature in [[Killing her softly]] (page 30), will be called to handle the crashed car and the surrounding commotion. If the crew has established a working relationship with them, they may call upon the crew for help with investigating David Nguyen’s death.

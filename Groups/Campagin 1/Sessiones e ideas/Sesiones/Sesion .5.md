@@ -1,0 +1,28 @@
+- [ ] What do you think will be what will get your character's together?
+	- Impending apocalypse
+		- Ideas:
+			- Nuclear apocalypse
+			- Social Apocalypse
+			- Natural Apocalypse
+			- Something trying to get out rift powers 
+	- [ ] What do you, as players, want to see next? Is there any particular thing, or are you simply along for the ride?
+		- Ghost
+			- Mostly along for the ride 
+		- Jhon
+			- Roleplay your characters
+		- Dwaine
+			- More interconectiveness with the crew, More crew drama
+			- More interaction with sleepers
+		- Basil
+			- Shenanigans
+			- 7 sins theming or any other
+- [ ] Is there any change are you would like to see in your character, any other character or in relations between characters?
+	- Ghost
+		- Want to see more character backstories
+	- Jhon
+		- Want to see more Angie moments
+		- Want to see how Faustian works with the group
+	- Dwaine
+		- Want to see Angie not traumatized
+	- Basil
+		- Want to see more Angie becoming evil

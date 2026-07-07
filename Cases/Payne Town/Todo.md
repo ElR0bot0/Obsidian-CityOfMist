@@ -1,0 +1,54 @@
+- [ ] Write an example of how each grail knight would give out the information of Percival
+	- [ ] Dr. Krystal
+		- [ ] Existence of Corbin Payne
+		- [ ] How to get to Payne
+		- [ ] How to cure pain and about Percival
+	- [ ] Armand Kai
+		- [ ] Existence of Corbin Payne
+		- [ ] How to get to Payne
+		- [ ] How to cure pain and about Percival
+	- [ ] Vince Beaumont
+		- [ ] Existence of Corbin Payne
+		- [ ] How to get to Payne
+		- [ ] How to cure pain and about Percival
+- [ ] Leer
+	- [x] The personal vein
+		- [x] Killing her softly
+		- [x] Carnival of machines
+		- [x] Broken Glass
+	- [ ] The Mythical vein
+		- [x] The furnace
+		- [x] Cult of the God-King
+		- [ ] The Alchemist
+	- [ ] The criminal vein
+		- [ ] Albion Awakens
+		- [ ] Home is where the Heart is
+		- [ ] The streets bleed Neon
+	- [ ] Percival
+- [x] Case: Killing her softly
+	- [ ] Maps:
+		- [ ] The washboard (Pg 28)
+			- [ ] ![[Pasted image 20240823133024.png]]
+		- [ ] The bancroft penthouse
+	- [ ] Tokens:
+		- [ ] Sammy Jefferson
+		- [ ] Syrus, The bouncer
+		- [ ] Nowak
+		- [ ] Martha
+		- [ ] Snatcher
+		- [ ] Quinn and Dass
+		- [ ] Ross Bancroft
+		- [ ] The victims of martha(In case snatcher wants to become them)
+			- [ ] Tiffany Bancroft
+		- [ ] Gravediggers
+	- [ ] Handouts:
+		- [ ] Martha Ellis show ticket
+		- [ ] Dr. Selma Perrin Therapist calling card
+		- [ ] The washboard ad for Martha Ellis
+- [ ] Case:
+	- [ ] Maps:
+		- [ ] 
+	- [ ] Tokens:
+		- [ ] 
+	- [ ] Handouts:
+		- [ ] 

@@ -1,0 +1,1 @@
+People who first encounter a story in Kwaku's operation

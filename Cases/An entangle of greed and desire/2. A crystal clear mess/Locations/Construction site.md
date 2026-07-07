@@ -1,0 +1,21 @@
+ ## Description
+```
+
+```
+## HOW CAN THIS LOCATION BRING THE CREW CLOSER TO THE TRUTH?
+```
+They can find traces of the Otto's
+```
+
+```
+
+```
+
+```
+
+```
+
+## WHAT FOLLOW-UP LOCATION WOULD THE CLUES LEAD TO?
+
+## IS THIS FOLLOW-UP LOCATION SIGNIFICANTLY CLOSER TO THE TRUTH?
+

@@ -1,0 +1,1 @@
+The construction worker who got herself a new pair of shoes the changed her life.

@@ -1,0 +1,4 @@
+- Rich guy
+- Rift of King David
+- Has a crush on [[Ellie Woodworth]]
+- Died due to some mannequin that looked like Ellie and had poison on its libs

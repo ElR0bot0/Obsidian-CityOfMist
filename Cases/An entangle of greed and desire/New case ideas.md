@@ -1,0 +1,50 @@
+- Bueno un caso que no tenga que ver con Rukas y lo que haga.
+- Uno que involucre a Allen
+- Tal vez uno sobre algo que necesite el hermano de Irvine para su caso
+- La vaina es que el problema es el hecho de que no se como hacer con la vieja esta verde por que aja, técnicamente el fucking caso se va a ir a la verga por que ella empezara a perder el control poco a poco.
+
+# Ideas
+- Como seguir el caso de de trendsetters?
+	- 
+- Literalmente un caso de corte
+	- Que el collar malfuncione y haga que tengan que enfrentarse a ella
+	- ![[Pasted image 20240907182450.png]]
+- 
+- Una fetch quest en busca de algo que pueda revertir lo que le paso a Eleonor
+	- Que entonces tengan que decidir si usarlo en Irvine o el la familia de Rukas.
+	- Se me ocurre que este mguffing puede ser algunas de las siguientes cosas:
+		- Podria ser el rift de Janus, lastimosamente ese es una gran vaina en el juego
+		- Podríamos usar a Hermes, [[Hayato]]
+			- Expandir en estas ideas para el caso:
+			- Que esta haciendo?
+				- Esta llevando a gente a punto de morir hacia Anatoli para que hagan tratos con el.
+			- Por que lo hace?
+				- Es un drogadicto adicto al ambrosia
+			- Cual es su logos?
+				- Street junkie, live fast die young
+			- Como se entera el grupo de esto?
+			- Pues misión por parte del jefe
+- Caso sobre influencers:
+	- Influencer sobre ejercicio y estilo de vida
+	- Influencer de niños
+	- Influencer de comedia
+	- Influencer de política
+		- Han habido riots por toda la ciudad ultimamente
+		- Clotilde, la hermanastra de Eleonor es parte de estos altercados
+		- Magirda, La madrastra de Eleonor es la que llama al grupo para contratarlos
+			- La otra hermanastra se llama Grymilla
+		- Que estan protesando?
+			- Demanding the Mayor’s Resignation for Wearing Leather Shoes
+			- Protesting Against the Mayor’s Refusal to Ban All Non-Reusable Packaging in the City
+			- Insisting on the Removal of All Air Conditioning Units in City Hall
+			- Protesting Against the Mayor’s Alleged Use of Non-Vegan Ink
+			- Demanding the Replacement of All Plastic City Signs with carves on trees.
+		- 
+		- El mayor Godfrey:
+			- ![[Pasted image 20240825081047.png]]![[Pasted image 20240901081321.png]]
+	- Todos los influencers son organizados por [[Premade/NPCs/Rifts from the book/Amanda Barnes|Amanda Barnes]] 
+- Una misión sobre algo que conseguir para el caso de el hermano de irvine
+	- Hacer esto simplemente dos objetivos:
+		- Encontrar evidencia 
+		- Encontrar testigos
+- Hacer un caso o una pequeña misión que Jill willow necesite hacer para unirse al grupo.

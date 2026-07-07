@@ -1,0 +1,1 @@
+The people of the city that are too deep into the mist's influence to understand and realize the mythical powers that are around them.

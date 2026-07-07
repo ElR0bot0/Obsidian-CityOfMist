@@ -1,0 +1,6 @@
+- The Knights that spread pain by proxy of [[Corbin Payne]]
+- There are four main ones in this campaign:
+	- [[Dr. Krystal Knight]], a psychologist that failed to heal [[Corbin Payne]]
+	- [[Armand Kai]] (Fulcanelli) was a scholar who sought life everlasting. When he saw the crippling wound of the Fisher King he was so deeply appalled that he became obsessed with preventing his own mortality, creating a murderous alchemical cult with the sole purpose of allowing him to find the Elixir of Life.
+	- [[Rio Beaumont]] (Percival) was the person with the greatest potential to unlock the Grail, but being too naive she fell short at the crucial moment. Seeking answers for her failure, she became a Sleeper and Denied the Beyond, disappearing to all Rifts in the City.
+	- Holding the Fisher King responsible for the loss of Rio, her father, [[Vince Beaumont ]](King Arthur) swore to become powerful enough to stand against him, but his quest for revenge turned him into a crime lord, who would sacrifice anything for the power to defeat his enemy.

@@ -1,0 +1,14 @@
+```
+The clickety-clack of fastidious shoes on the marble floors echoes throughout these grand halls, giving you a mild bout of anxiety. You climb a spacious marble staircase with a burgundy carpet to a landing where several hallways meet. Finally, opening a tall wooden double door, carved with decorative engravings, you interrupt a circle of distinguished, middle-aged individuals deep in conversation. They all hush at once, their eyes fixed on you. “Can we help you?”
+```
+# Background
+Once a week, Dr. Selma Perrin and Dr. Archibald Tennant (or any other therapists you dub as the elders) host a Mending the Broken supervision meeting where therapists share their progress with their Rift cases and receive advice from more experienced practitioners. The meeting takes place at the Old Quarter University, in the never-ending ornate marble halls of the Department of the Psyche.
+
+The crew may wish to come here for more answers, if they didn’t get enough out of the first therapist they encountered. They may also wish to execute a raid and capture all or most of Mending the Broken’s therapists.
+
+Facing a handful (size factor 1) or a dozen (size factor 2) of Touched psychologists and psychiatrists may sound easy, but it won’t be. The therapists can gang up on one or two weak crew members and tear them to pieces, analyzing their every weakness and laying bare their secret pain (or close enough), even if the PCs don’t speak it. Furthermore, the supervision group, who often interview emotionally-volatile subjects here, has a team of psychiatric nurses on standby in the next room that can be summoned as soon as things get out of hand (if you want to reduce the challenge for the crew, Give Them A Fair Warning and let them try to prevent the therapists from buzzing the nurses in).
+
+The therapist group members know the same clues described under Mending the Broken Private Clinic, which ultimately point to Dr. Monahan and the Asylum. However, if the crew manages to overcome the group or secure one of the elders, you can reward them with additional clues. If the crew are overpowered by the therapists and nurses, they wake up as patients confined to a padded room in the basement of the Asylum (see there, under Solitary Confinement).
+# Clues
+- Some of the most experienced Mending the Broken therapists know Dr. Monahan personally and actually helped formulate her theory. The others have never met this genius, who works behind closed doors at the Asylum.
+- Breaking and then deeply probing the mind of a senior therapist could reveal a fact that the therapist is violently trying to repress: Dr. Esther Monahan has been dead for years.

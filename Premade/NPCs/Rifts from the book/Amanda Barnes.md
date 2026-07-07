@@ -1,0 +1,3 @@
+Borderliner rift of [[Benzaiten]], Japanese goddess of everything that flows: water, time, words, and music.
+Amanda Barnes is [[Isabella Aguilar, Avatar of Xochiquetzal| Isabella's]] persona assistant and believes fully in her being her number one fan. She does a perfect job (with a little help of her time bending) of managing Isabella's schedule. She has a crush on Isabella but wont tell her, this is affecting her professionalism.  
+![[Amanda Barnes.png]]

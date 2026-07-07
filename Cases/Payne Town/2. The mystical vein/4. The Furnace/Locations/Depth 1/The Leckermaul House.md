@@ -1,0 +1,28 @@
+```
+Birds chirp and whistle around you as you pass the white-picket fence of the Old Quarter house into a flowering garden. Overhead, the sky is clear with a handful of wooly clouds floating serenely. When you approach, you spot Mrs. Leckermaul sitting by the window, looking at you intently, and taking a sip from a steaming mug. It’s only when you move closer that you realize she isn’t looking at you; she’s just staring emptily into space.
+```
+# Background
+The Leckermaul house is a darling little cottage surrounded by a garden and a fence in a residential part of the Old Quarter. The scene here serves to build suspense and provide foreshadowing, introducing a victim of the furnace who lost her powers. At this point in the investigation the crew is unlikely to reveal Leckermaul’s greater involvement in the case, but they may return here later to follow up.
+
+Rosina Leckermaul is an elderly woman who seemed to have lost the will to live and is in a deep state of depression. She doesn’t respond when addressed, although she may mumble to herself (never providing any useful information). She goes about her daily business doing the bare minimum to survive and spends her time mostly staring out the window at the garden.
+
+Up until a month ago, Leckermaul was the Gingerbread Witch and a nefarious drug trafficker working with Magnum Opus. She maintained this house as a facade to keep the cops off her back. Then she was fooled by a little devil called Rachel Woods. Her Mythos was taken away by the furnace she herself built and she turned into a Sleeper, forgetting it all. The last thing she remembers is walking back home, but she can’t even recall where she was coming from. Leckermaul’s former employees remember her only if they are Rifts (or Touched by one); Sleeper members of her drug ring, most notably the Underhand Naga Gang, have long forgotten her.
+
+## RESTORING THE VICTIMS OF THE FURNACE
+Victims of the furnace are changed permanently, affected by a tier-6 status. The ways to restore their Mythos to them, usually involving the Tincture of their Mythos, are described under the Mystical Vein (page 84). If a PC has the ability to counter the effects of the Mist, they may be able to restore the victim’s memories, but not her powers. This should be on par with a significant Stop. Holding. Back. sacrifice if the victim will recall only some useful details, or a greater sacrifice if she is to reveal critical information.
+## THE FURNACE TRACE
+While it is very faint, the furnace does leave a Mythos footprint on the Rifts it transforms into Sleepers. Beyond the Mist this manifests as visions of a burning oven. It’s a small detail, but one that could potentially unlock the case and therefore should be awarded to alert players.
+
+The first time the crew investigates such a victim and Looks Beyond the Mist or uses arcane investigative skills, you can give it candidly while still keeping it vague. When investigating subsequent victims, only share this clue if a PC is looking for the trace specifically
+# Clues
+- Leckermaul is just a nice old granny who is more than a little forgetful. This contradicts and puts into question any reports about her previously leading an active lifestyle (Hans) or the life of a drug trafficker (street contacts).
+- In the locked basement there is a strange assortment of cages, some big enough to hold a person, which may indicate that there is more to Leckermaul than meets the eye. They haven’t been used in many weeks, perhaps months.
+- In the washing machine there are a black leather jacket, a white tank top, and a pair of black leather pants the size of Leckermaul, still smelling smoky. She doesn’t recognize this outfit.
+- Going into Leckermaul’s phone records a month back could potentially connect her with drug dealer [[Foxy Supreme]] or [[the Underhand Naga Gang]] at [[The Candy Drug Lab]]. However, with the Mist having had time to erode this information, records may be corrupted-3.
+- **Beyond the Mist**, Leckermaul is a Sleeper and the house has no Mythos. However, there is a very faint trace of the Gingerbread Witch Mythos on her. It’s not her Mythos, per se, but something from a different source. See The Furnace Trace sidebar.
+- Magically tracing back Leckermaul’s steps or past would show her walking back home with a younger woman dressed in a white fur coat and a sparkly mini dress. (This is drug dealer [[Foxy Supreme]] who previously worked for her and walked her back home after the furnace incident.)
+If Hans is around, he will stick to his story of being Leckermaul’s grandson and caring for her since the incident.
+- Until six weeks ago, Hans was a z-class DJ playing a set or two a month in obscure bars. He was then discovered by the scene and rose to fame overnight, playing in the hottest clubs.
+- Hans doesn’t seem to know his way around the house, as one would expect a regular visitor. He can’t find the glasses in the cupboard to offer the crew a drink and gets confused when he guides them around.
+- Reading Hans will reveal he is lying about some or all of his story, and that he has a different agenda here. If he is exposed, Hans will share information to appear trustworthy and keep his cover: he’ll ‘admit’ to being after more Candy and say he came here because Leckermaul used to make the stuff. If he is coerced to speak, he will likewise disclose information about the person who sells Candy (drug dealer [[Foxy Supreme]]) to keep his own involvement hidden.
+- Following Hans could lead to[[The Bowl fight club]] or to [[Hans' Loft]].

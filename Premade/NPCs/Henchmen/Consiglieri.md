@@ -1,0 +1,2 @@
+
+![[Consigliere.png]]

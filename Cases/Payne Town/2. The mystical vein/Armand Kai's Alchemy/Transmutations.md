@@ -1,0 +1,1 @@
+Armand also turns loyal cultist Sleepers into Touched minions – his Disciples – by teaching them the alchemical arts, called Transmutations. At a basic level, each disciple is taught how to transmute a single alchemical element, such as brimstone, quicksilver, lead, fire, or earth and is able to magically move this element and change its formation.

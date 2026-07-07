@@ -1,0 +1,4 @@
+- A tattooed **deaf** skinhead
+- Rift of the **Ghost of christmas yet to come**
+- He awakened to a flier of [[Cases/Payne Town/@Glosary/Martha Ellis|Martha Ellis]] and  so her future and her death
+- He dropped everything to prevent this from happening

@@ -1,0 +1,16 @@
+```
+You can’t believe your bad luck when you get caught in a torrential downpour just outside the block-wide tenement where the Joneses live. By the time you’re inside their cramped apartment, you’re soaking wet. Jeff Jones welcomes you and walks you to the nursery, telling you about the outbursts of anger that his wife, Felicia, has had since the birth of their first child, Mira. He knocks on the door, but there’s no answer. Through the keyhole you see a gloomy nursery room, exposed to the elements blowing through the open window, by billowing, tattered curtains. Someone in the corner is singing a hushed nursery rhyme.
+```
+# Background
+Felicia Pema Jones is one of Mending the Broken’s many victims. Mother to three-months-old Mira, she awakened shortly after childbirth as the Rift of Palden Lhamo, the Tibetan tutelary goddess, possibly because of her deep desire to protect her child and, for her, protect all that is good in the world. Unfortunately, Palden Lhamo can be a wrathful goddess who violently attacks threats to those under her protection, including her own daughter, and Felicia didn’t know how to handle that intensity of rage.
+
+When things got worse, she turned to Mending the Broken and was referred to Jungian therapist Dr. Drew Langstone. 
+
+Naturally, things just got worse from there. Langstone instilled destructive ideas in Felicia’s head, playing on her Mythos’ history with infanticide; his endgame was to get Felicia to kill her own daughter and commit suicide (for everyone’s best interest, so he believes). When the crew arrives, Felicia is on the verge of doing just that – she has locked herself up in the nursery with Mira and keeps shouting at Jeff to stay away. The crew might be able to undo the damage done by Langstone and gain Felicia’s help in chasing down the truth, but first they have to save both mother and child.
+
+If Felicia does the unthinkable, she does so by throwing herself and/or her child through the nursery room window, falling to a glass-riddled death, by way of the broken glass motif (page 22).
+# Clues
+- Jeff can bring the crew up to speed on Felicia’s mental health history. She was fine until she gave birth to Mira. When Felicia’s rage outbursts started, the couple tried to seek help but Felicia didn’t feel the (Sleeper) therapist she met with could help her. She later saw a poster for Mending the Broken, called their helpline, and was referred to Dr. Drew Langstone, who is still her therapist.
+- Jeff is frustrated that he can’t help Felicia and worried sick for her and Mira’s safety. He explains Felicia’s appearance and incredible strength as side effects of the rage.
+- While still enraged, Felicia may mumble words that betray her inner conflict: she is worried that her daughter may be a Rift too, which is a ‘dirty, ugly thing’, and contemplating hurting both herself and her daughter to prevent it from happening.
+- If Felicia is stabilized, she reports feeling safe with Dr. Langstone, who can see and understand her abilities. She claims that she always feels better after their sessions. However, asking her to calmly reevaluate what was actually communicated in those sessions makes her realize it was he who poisoned her mind against herself and her daughter.

@@ -1,0 +1,4 @@
+#legendary #NPC #Nature 
+Legendary rift of [[Artemis]].
+Head of [[Isabella Aguilar, Avatar of Xochiquetzal|Isabella's]] terrorist branch. A highly trained echo terrorist with a rich criminal record. She is focused more on action than talking in contrast to her boss. Besides continuing her campaign of terror against the City’s polluters and their supporters, her most urgent responsibility is to back the development of a mythical substance that could turn the City into a lush forest once again. This includes the procurement of two things that currently belong to [[Helix Labs]]: the product of a project dubbed DRYAD – and the project’s chief scientist.
+![[Natasha Vasiliev.png]]

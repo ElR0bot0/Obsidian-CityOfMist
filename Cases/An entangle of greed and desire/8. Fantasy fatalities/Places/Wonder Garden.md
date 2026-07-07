@@ -1,0 +1,1 @@
+Ademas de encontrar a los niños jugando se pueden encontrar pedazos de papel aluminio alteradoras de memoria

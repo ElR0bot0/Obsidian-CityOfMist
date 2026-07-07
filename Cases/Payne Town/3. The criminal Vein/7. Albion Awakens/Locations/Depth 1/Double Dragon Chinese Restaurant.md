@@ -1,0 +1,21 @@
+```
+Driving along the main Whitecliff drag, you spot several boarded up businesses where looters have sprayed graffiti of stylized dragons and swords. You pull up by the Double Dragon, an eatery supposedly favorite with the locals; boarded up and locked up, the place seems dead. Through the cracks in the barricade, you get a look at the inside: a traditional Chinese restaurant in shambles, broken glass everywhere, and dust particles floating on pale rays of light. Someone really did a number on this place.
+```
+# background
+The scene at the Double Dragon serves to show the destruction caused by the Errants but clever PCs can find the first clues about the gang’s hidden agenda.
+
+“The Double Dragon” is a traditional, family-run Chinese restaurant owned by the Huángs. The family patriarch and matriarch, the gentle Mîn and the shrewd Xiáxiá (Wū, Chinese shaman or witch) run the business, while their children and grandchildren work the kitchen. The elders and many of their family members live in the building above the restaurant, also owned by the Huángs.
+
+At this time of crisis, the Huángs have locked themselves up in their residences and refuse to talk to anyone but the police (uncooperative-2). To ensure no further harm comes to her family, Xiáxiá summoned a guardian spirit to protect their business and home. They will also call the police if they see anyone else trying to enter their property, and Huáng Mîn, who is on the verge of a mental breakdown, may even shoot intruders with his shotgun (gunshot-wound-3). Xiáxiá, on the other hand, might curse any crew members who try to break in or even those who simply annoy her (weakened-3 or cursed-3).
+
+# Clues
+- Three days ago, in broad daylight, five bikers with helmets rode in and started shouting and behaving aggressively. They subdued Huáng Mîn’s son and grandson, who were working in the kitchen at the time, and proceeded to smash everything inside. When they were done, they only said “Tell Mayor Ricci that she doesn’t rule Whitecliff anymore.”
+- Mayor Ricci is a regular at the “Double Dragon” and the Huángs are reputedly donors for her campaign. However, Xiáxiá feels betrayed and already plans to stop the donations if the mayor doesn’t get a grip on the security issues in the neighborhood.
+- The damage at the Double Dragon is extensive, but superficial. PCs familiar with the criminal underworld know this is nothing as far as vandalism goes and would wonder why the gang didn’t strike harder. The Huáng sons also came away relatively unscathed. It seems amateurish of this new gang, as if they were reluctant to truly harm this family.
+- Magically locating those responsible will place them at the basketball court tonight. The same can be achieved by mundane methods of crime scene investigation, such as profiling and tracking the bikes, finding a DNA sample, tracking phones, etc.
+- The Huángs can afford to rebuild, but the financial damage of staying closed is considerable. The Concerned Citizens Council has already organized a volunteer taskforce to help them get back up and running. All in all, the attack mostly damaged their trust in the mayor.
+- Huáng Xiáxiá saw the intruders beyond the Mist and can describe them as medieval knights riding noble steeds. She has put a curse on one of them that would make them sneeze ceaselessly (she could do worse, but wanted to track her victim and find out who is really in charge).
+# Menshen
+The protector spirit summoned by Huáng Xiáxiá is a Conjuration that prevents entry into the Huángs’ restaurant and residence. The spirit can sense everything in the space of the house it protects. It manifests as a faded illustration of a Chinese general on the front door.
+
+If the spirit senses an intruder, it materializes as a glowing real-life version of the same general, clad in armor and wielding an iron club. While the Menshen’s club can connect with both physical bodies and incorporeal entities, attacks that aren’t legendary go right through the spirit. The Menshen will chase intruders out but will not abandon its post

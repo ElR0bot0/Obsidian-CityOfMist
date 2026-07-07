@@ -1,0 +1,1 @@
+A place that is used for hatching and raising all kinds of legendary birds and butterflies. This stay here by their own volition and their feather's are used to make the [[Swan Maidens]]'s hagoromos. They will protect this place with their lives, or the lives of others.

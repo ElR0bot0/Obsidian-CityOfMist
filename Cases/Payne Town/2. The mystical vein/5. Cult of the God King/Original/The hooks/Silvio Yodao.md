@@ -1,0 +1,5 @@
+Contacts in the art or antiques dealing world, including smugglers, fences, and forgers have all caught wind of a heavyweight collector that is buying up artifacts, creating a market hype and a rush for antique heists (one such contact is Michel Ahmagi of Ananda Gallery, see the free case Demons in Cross End).
+
+The person to talk to is Silvio Yadao, a cat burglar who has been working for that anonymous collector (Alona Wainwright) but is now eager to go legit and is being threatened by the cult. Silvio would suggest meeting at the Chinatown Festival, a crowded place ideal for furtive meetings with ample escape routes.
+
+Crew members may also happen to be present at the Chinatown Festival when the cult’s attack on Silvio takes place, prompting them to act and later investigate. Supporting cast caught in the mayhem may call the PCs for help.

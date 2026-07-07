@@ -1,0 +1,1 @@
+Bueno la verdad no se muy bien de que hacer el one shot, si por un aldo se me ocurre entonces lo de odin siendo rappitendero y buscar al rededr de la ciudad las runas en una sola noche pero que consecuencias esto puede tener, por que la crew se meteria en esto o como los puede afectar para querer meterse en esto

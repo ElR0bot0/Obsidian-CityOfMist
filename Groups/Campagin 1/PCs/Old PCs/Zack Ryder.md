@@ -1,0 +1,18 @@
+
+| Title:                                                            | *THe chains that bind us together*                   | *Parkour Expert*                                                       | **Hide of the wolf**                                                     | **Fury of the Wolf**                                            |
+| ----------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Id/Myst**                                                       | She is my guide. She helps me make the right choices | "Running reminds me of who I was before my powers"                     | How can I gain even more of this strenght?                               | Am I destined to bring about the end?                           |
+| **What would constitute going against it/forbiding the answers?** | - Going against what Christine says                  | - I need to ask him what would constitute going against this one.<br>- | - Anything that can give him more strength, any challenge, any opponent. | - Parts of norse mythology<br>- Other rifts  of norse mythology |
+| **Clash ideas**                                                   |                                                      |                                                                        |                                                                          |                                                                 |
+Zack is rash and angry by nature. But his mythos amps this up by 11.  Fenrir has one solution to problems; Destroy.  Zack NEEDS a voice of reason. Kristine helps keep him calm and see reason during rough patches of his life. Going against that wouldn't necessarily always be voluntary. Maybe she gets kidnapped. Then he's on a timer before he starts losing his cool. Alternatively, maybe he has to learn to stay away from his friend on order to grow his power. Fenrir's rage is after all what fuels his strength. Idk how sentient a mythos is but I would definitely say that if he is sentient on his own Fenrir definitely hates Kristine. He thinks she holds him back. He would want him to get rid of her. Could play with the idea of Fenrir refusing Zack his strength if he spends too much time around Kristine. Ignoring her on purpose would definitely cause him to mark fade.
+# His vein:
+## ideas
+- Que se encuentre con el rift de loki
+- Meter a Barton y su plan del gran conflicto de nuevo en el juego
+## Questions
+- How will he be able to bring the end of the world?
+	- Finding his 
+- Why would he try to bring the end of the world?
+	-  I think he would do it tor try and get a giant playground for himself: doggo mentality
+
+“...And the waters will rise slowly, inching the patience of a predator. When the ocean finally makes herself known, the waters will come crashing upon the shores, carrying the weight of a thousand years of sorrow. And the sorrows, which held a great beast at bay, will be washed away. The beast that rested for an age on the precipice of the Deeps among the ruins of old, will finally awaken with great haste. The ocean will rise as the ocean dies, broken on an altar like the tide on the rocks. And you will know this time, for a battle of souls will take place within the belly of the beast and the outcome will determine the safety of the Tower and the fate of the entire universe…”

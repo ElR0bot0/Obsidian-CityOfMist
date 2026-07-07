@@ -1,0 +1,4 @@
+- A group of Sleeper psychiatrists and psychologists Touched by Dr. Knight’s powers.
+- They pose as aware and understanding mental healthcare providers who seek to help gifted individuals
+- They are actually equipped with the power to plant seeds of ever-growing hatred in the hearts of their patients, driving them to self-destructiveness or aggressiveness toward other Rifts.
+- They victimized [[Cases/Payne Town/@Glosary/Martha Ellis]] and [[Maximmillian Drake]]

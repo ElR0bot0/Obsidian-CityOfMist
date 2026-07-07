@@ -1,0 +1,25 @@
+Candy is a designer substance created specifically to attract Rifts to the furnace. It does so by fulfilling the user’s wishes for a short period of time. Candy is, in fact, chemically non-addictive, so it isn’t a drug per se; it relies on the user’s own desire for fulfillment to drive them to acquire more Candy. When the user ends up in the glasswork factory, Candy really kicks in: it allows the user to enter the Gingerbread House Enclave and traps them in a magical, psychedelic cage, preparing them for the furnace.
+
+In its latest version, Candy contains some of Hans Woods’ Mythos powers, showing a user in need of more Candy a path of glowing moonlit pebbles which leads to the old Aurora Glassworks factory and from there into the Gingerbread House Enclave, where the furnace awaits and the user is magically trapped.
+
+The pure Candy substance – a glowing blue powder – is laced into real candy at the Candy drug lab and sold wrapped and branded with a storybook decorative letter “C”
+
+## Using Candy
+When the user consumes Candy, their most eminent wish is fulfilled. This could be winning the lottery, falling in love, causing ruin to another, etc. Cinematically, Candy has limited power. It can grant the greatest wishes, as long as they don’t exceed the power of a single story tag. Therefore, it does not have the power to harm or alter a significant character in a single wish, although it can be used to alter reality in a way that is conducive to that (e.g., materialize a gun which can then be used to shoot someone). Be liberal with what Candy can do, e.g., you may allow a PC whose loved one died to bring them back from the dead, for real, briefly.
+
+When Candy is used to wish for something that is beyond its power, it fizzles out and causes cosmetic reality disruptions; the user gets the clear impression that they need more Candy to realize their wish. Candy cannot be used to make more Candy; it’s designed that way.
+
+Candy always loses its effect within a short period of time, between hours and days, depending on the wish made and cinematic considerations. When it begins to expire, fulfilled wishes begin to fail or fade away, e.g., materialized items malfunction, social power wanes, etc. Here too, the user feels more Candy is needed to maintain her wish. When this happens, see Trippin'.
+
+**Use Candy as a cinematic device to trigger the crew members’ Mysteries and Identities and put their deepest or most superficial desires in the spotlight.**
+## Investigating Candy
+A PC with appropriate mundane training, a sample of Candy, and enough time in the lab can garner some information about the drug, while Rifts with knowledge of the magical arts, especially alchemy and herbalism, could learn even more.
+- The product is real candy, laced with an unrecognized psycho-active compound.
+- An analysis of trace narcotic residue in the wrapper indicates Candy is handled in the same environment with other drugs, probably by a local drug ring. An exceptional investigator spending multiple Clues could link the specific narcotic with a known drug cartel, the Underhand Naga Gang, narrowing down the search after the Candy drug lab.
+- Looking Beyond the Mist or applying legendary skills could help identify that the substance contains a form of low-grade wish-fulfillment magic. A well-phrased Clue question could reveal there are some strings attached to the wish fulfillment, but discovering what they are is difficult, producing only vague images of the Gingerbread House.
+- **Looking Beyond the Mist** may also reveal a connection to Hans’ Mythos (moonlit pebbles) or the Gingerbread Witch Mythos (burning oven).
+To reveal the full properties of Candy, a PC must invest some time and resources. Give the Candy **unidentified substance** and **hidden magic** to make the investigation harder. If a PC spends downtime investigating the substance, adjust the information you reveal based on the appropriate abilities, skills, and/or equipment they use.
+## Game Effects
+When Candy is consumed by a PC, give that PC an ongoing story tag describing their fulfilled wish, such as **a millionaire**. As ongoing tags, Candy-derived tags can be burned for a hit. For Dangers, choose hard MC moves to match their wish.
+
+**Keep track of the characters who use Candy.** Candy users can enter the Gingerbread House Enclave through the glassworks factory, while non-users cannot. Furthermore, every character who has taken Candy becomes **caged-4** upon entering the Enclave, without Facing Danger. If the PCs discover this effect before entering the Enclave and try to prevent it from happening, it requires a Change the Game move and spending 1 Juice on a special 10+ effect improvement to allow them to remove an effect that is only there in potential. Tampering with Candy to allow access to the Enclave without the adverse effects requires a PC with appropriate abilities to Stop. Holding. Back. with a significant or no-return sacrifice (see Entering the Enclave, page 105).

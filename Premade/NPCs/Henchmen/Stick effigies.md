@@ -1,0 +1,2 @@
+
+![[Stick Efiggy.png]]

@@ -1,0 +1,2 @@
+
+![[Adanko Gyasi.png]]

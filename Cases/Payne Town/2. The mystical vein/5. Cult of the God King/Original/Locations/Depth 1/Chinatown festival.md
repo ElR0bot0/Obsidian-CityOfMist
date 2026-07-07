@@ -1,0 +1,29 @@
+```
+The constant whistling and crackle of firecrackers and the jingle of bells and cymbals almost drown out the sound of the crowd swarming around you. Lanterns hang from every house and over the streets, where thousands of visitors and locals stroll in a meandering flow, sampling the street food and stopping to watch the colorful and fantastic performances. In the center, a procession of floats and a giant dance figure of a dragon flare occasionally with pyrotechnics. Your contact picked this place for a reason: one could easily disappear in the crowd here. But something’s wrong. The hairs on the back of your neck bristle when you look down the dark Chinatown alleys all around. Then you hear a scream over the festive music. When you turn back, the flames are everywhere and within them the dragon, coiling in the air as its operators flee in panic.
+```
+# Dangers
+![[Pasted image 20240910183902.png]]
+# Background
+When cat burglar and Relic thief Silvio Yadao (Tincture of Tarnkappe, the cloak of concealment of The Song of the Nibelungs) decided to go legit and avoid his mysterious employer (Alona Wainwright of the Cabal), they sent him an unequivocal threat. While Silvio and his daughter Helena (Sleeper) are waiting to meet the crew at Chinatown’s Mid-Autumn Festival, one of the vendors, who was paid off by the cult, pretended to kindly gift Helena with a rattle drum.
+
+The rattle drum is a Mythos-powered “bomb”: it contains the accident-prone Tincture of The Sorcerer’s Apprentice, the Mythos of magic going out of control. Every time Helena shakes the drum, she enchants an object and brings it to life. Because of the Mythos, any haphazard attempt to stop the animated object causes it to duplicate, breeding more mayhem. Unfortunately, one of the first things Helena enchanted was the festival’s huge fire-breathing dragon figure.
+
+In addition, the rattle drum is especially dangerous for magic-wielding Rifts who are prone to lose control over their powers. Sorcerers and witches who touch the drum must Take the Risk to control their powers. A 7-9 means keeping control over their powers takes its toll or demands some concession (Force Them to Choose), while a miss causes them to momentarily lose control over their powers (similarly to a missed Stop. Holding. Back.), with mild or severe repercussions, as appropriate. Optionally, give such a PC **uncontrolledpowers-2**.
+
+This dramatic incident at the festival serves as an action-packed sizzler which can open the case or pick up a slow investigation. At the very least, the crew must locate and save their informant, Silvio Yadao, who will beg them to find and save his daughter. The crew members may also be involved with protecting innocent bystanders. Investigating the incident can take place as it unfolds or after the drama is over
+# Clues
+- Helena’s rattle drum is causing all the trouble. Studying the drum shows it contains a highly-volatile magical liquid (a Tincture). Beyond the Mist, the Mythos of the Sorcerer’s Apprentice is revealed, a vision of a helpless young man in a magician’s robes who has lost control over a host of animated brooms.
+- According to Silvio, this is all the doing of an antiques collector he has been working for. He doesn’t know her name, but he knows she has been gathering ancient artifacts to add to her collection. Silvio used to steal items of great value for this employer, but now that he’s trying to go legit, she wouldn’t have it.
+- The threat worked: Silvio is shaken and resigns to attempt [[The Dig Site Job]] to avoid endangering his little girl. He was taken aback by his employer’s ruthlessness; he didn’t think she would dare to hurt his daughter. If provoked, Silvio warns the crew not to try and stop him.
+- Silvio is hiding his feelings and would say nothing about [[The Dig Site Job]], **fearing-forhis-daughter-3**. He knows that [[The Dig Site Job]] involves stealing an ancient tablet. If the crew exposes his plan, he begs them not to interfere.
+- Silvio neglects to mention that he carries the Tincture of Tarnkappe – which was given to him by his employer. The vial allows him to turn invisible and conceals him from surveillance and divination, which he has been using to make his life as a cat burglar much easier.
+- His employer’s henchmen – Magnum Opus Initiates – are watching over the unfolding of the trap from a safe position on the rooftops of Chinatown
+- For information garnered from studying the Tincture, see [[Alchemy 101]].
+# Moonwraith
+To complicate things, also observing the chaos from the rooftops is Tracy Chang (Chang’e, Chinese goddess of the moon), more commonly known in the criminal scene as the vigilante Moonwraith. An athlete trained in a wide range of aerial gymnastics and martial arts, Moonwraith has recently awakened to her ability to fly in the moonlight and has been fighting crime ever since. Unbeknownst to her, her Mythos also makes her immortal, a fact that will remain hidden until she is killed for the first time.
+
+Moonwraith is attracted to the scene because her Mythos goddess is popularly associated with the Mid-Autumn Festival and because she’s a crime-fighter. To add fuel to the fire, her Mythos also pulls her there because Silvio Yadao is going to steal the recipe for the Elixir of Life (Chang’e became the moon goddess by consuming such an elixir). All this makes her involvement with Silvio, the crew, and the cult nothing short of inexorable.
+
+Moonwraith may team up with the crew to stop the mayhem at the festival or get in an altercation with them if they wrongly associate her with Silvio’s employer or if she discovers they are after the tablet. Ultimately, however, she will do what it takes to protect the tablet during [[The Dig Site Job]].
+![[Pasted image 20240910183822.png]]
+![[Pasted image 20240910183840.png]]

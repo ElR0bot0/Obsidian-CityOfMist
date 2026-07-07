@@ -1,0 +1,1 @@
+El padre que se preocupo por el juguete explosivo de su hija

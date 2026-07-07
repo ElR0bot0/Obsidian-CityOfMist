@@ -1,0 +1,25 @@
+```
+The rain falls incessantly as you stop in front of the impressive, immaculately restored house, next to a gold-tinted sign spelling WAINWRIGHT AUCTIONEERS. Somehow, you’re not surprised it all boils down to an auction house. This covetousness, this desire to possess, hangs about the place like foul breath. This is where the ancient and the priceless get labelled with a dollar sign and sold to the highest bidder. You doubt that these people, who crave to privately own collections of museum-worthy treasures, stop there; surely they must feel the urge to deal in far more sacred commodities.
+```
+# Dangers
+![[Pasted image 20240910194655.png]]
+# Background
+Like her fellow members in the Cabal, Alona Wainwright is a Magnum Opus Wolf through and through: for her, the worship of the God-King is only a path to unmatched power. One of the City’s most prominent art collectors and dealers, she came in contact with the cult several years ago after stumbling upon a manuscript of “The Alchemy of the Soul” and identifying it as a fake. Threatening to blow the lid on Prof. Clay’s operation unless he lets her in on his secrets, she got herself an instant seat in one of the first Silo Trials, which she aced. A year later, she was accepted into the Cabal and started to greedily collect Tinctures of Mythoi as she grew the cult’s operations further and further.
+
+An attractive, accomplished, and assertive woman in her 40s, Wainwright is the cult’s financier and legal advisor. She funds the battery of lawyers that protect cultists and harass the enemies of the cult and she uses her influence and connections to draw attention away from the cult’s activity in the high rungs of law enforcement and the media.
+
+As a bearer of the Tincture of the Magi, Wainwright possesses vast magical and astrological knowledge, although her magic is ritualistic and is not suitable for conflict. She keeps the Tincture in a small receptacle cut from ruby that is fixed into her belt buckle. She often wears expensive jewelry to lure thieves away from the Tincture.
+
+The crew can trace cult activity back to Ms. Wainwright. Mercenaries working for the cult like Silvio Yadao (the Dig Site Job) or the Yakuza Yōkai and Talia Al-Bahar (The Cabal’s Damage Control) report directly to her, as do the cult’s lawyers.
+# Clues
+## INVESTIGATING ALONA WAINWRIGHT
+Wainwright conducts her business from her offices at Wainwright Auctioneers, based in a regal historic building on the border of the Old Quarter and Downtown. The difficulty in pinning her down lies with her daily horoscope, which predicts any interferences or threats to herself or the cult’s work (see The Cabal’s Damage Control, page 117, on how to counter this power). Just when the crew finally thinks they have her cornered, she is simply not there, and a nasty surprise could be waiting instead. If the crew does find a way to circumvent her horoscopes, they may discover the following
+- Together with the other members of the Cabal, Wainwright’s main job is to keep the cult’s operation running smoothly like a well-oiled factory line. She follows closely the number of graduates from the Silo Trial, Whirler’s Commune, and the Feast of Fools, as if there is some quota or demand she is trying to meet.
+- As with all members of the Cabal, Ms. Wainwright’s arrangement with the cult is no longer spiritual but transactional: generate more power, and you’ll be rewarded with a share of the power. The currency of power is Tinctures.
+- The final two phases of the Magnum Opus process take place in the Catacombs. Ms. Wainwright seems to receive her payment for graduations in Tinctures, but only after the fourth and final phase is complete.
+- Once or twice a week, a suited Initiate shows up to convey reports from Whirler’s Commune or the cult’s Anointing rituals in the Catacombs. They can be followed to either location.
+- Wainwright collects Relics, such as the tablet from the Dig Site Job, as a side business for the cult. The Relics are sent to the furnace / Canseliet Manor (to be harvested). She keeps an encrypted-2 ledger listing which Relics were sold to the cult (it does not contain information about human Rifts)
+- Wainwright keeps about half a dozen Tinctures in an ornate locked-3 and boobytrapped (poisoned-4 and starcrossed-4 if triggered) jewelry box. The box is kept in her auction house vault among many other objects of refined craftsmanship and great value, including a few Relics (awaiting harvest).
+- Wainwright uses the Tincture of the Magi to magically communicate with the other Cabal members: they can see and hear each other through a basin of water, in the flames of a fireplace, or in a cloud of smoke and mist.
+- In the same way, Wainwright communicates with someone she calls “Great Teacher”. This can lead to Canseliet Manor and Armand Kai, in The Alchemist (page 155).
+- If the furnace is still operational, Rachel Woods reports to Wainwright by phone or through a Disciple courier. This could connect this case to The Furnace (page 87).

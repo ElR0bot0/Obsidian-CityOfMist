@@ -1,0 +1,7 @@
+- Part of a gentleman's club
+	- They iin there think he is just a normal person
+	- he is in waste "disposal"
+		- Its actually human waste
+- Likes Warhammmer
+	- the only vistage of color in his life, specially his car because he paints in there
+- Dissapears people as if he was the dessert

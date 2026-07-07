@@ -1,0 +1,1 @@
+Barton is a superintendent at this place and lives here. He doesn't have any booby traps or any way to defend himself if someone got in and that is just as he likes it. For some reason, be it the mist or Barton himself, no veterans live here.

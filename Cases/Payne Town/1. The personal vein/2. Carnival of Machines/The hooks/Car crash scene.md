@@ -1,0 +1,5 @@
+The most cinematic way to open the case is by having crew members present at the corner of Pine and 5th that night, when David Nguyen’s sports car comes hurtling down 5th Street. As the crash takes place in a busy Downtown junction, some of the crew members may be there as part of their daily routines and start the scene as accidental bystanders. Precognitive Rifts could have had a vision of the impending crash, arriving at the scene in time to try and prevent it. Perhaps the crew sits down for a late dinner and conversation, in a diner close to the junction such as Rondo’s Diner or Shinobi Sushi. 
+
+Those at the scene first hear the rumbling growl of a sports car engine, then spot the out-of-control vehicle running rampant on 5th street, about to crash. The driver seems to be unconscious, head against the steering wheel. Even if the crew brings the car to a safe stop, David Nguyen is already dead, killed by fake Ellie’s poison kiss.
+
+![[Pasted image 20240902151846.png]]

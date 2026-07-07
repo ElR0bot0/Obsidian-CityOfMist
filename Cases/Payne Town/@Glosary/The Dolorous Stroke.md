@@ -1,0 +1,8 @@
+- An affliction that manifest itself both mundanely and mythically on those who bear it.
+- In game terms it is treated a s a tire-6 status (the-dolorous-Stroke-6)
+- It can be inflicted to a player character when they receive any tier-6 status by someone in Payne's operation.
+	- When they do so they become failed [[Grail Knights]] 
+	- Their particular dolorous stroke takes a different form depending on what their **secret pain** is
+- It can be cured in two ways:
+	- using the holy grail
+	- Undertaking a quest of great difficulty

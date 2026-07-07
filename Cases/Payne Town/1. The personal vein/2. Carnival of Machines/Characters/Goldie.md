@@ -1,0 +1,18 @@
+---
+aliases:
+  - Samantha Goldstein
+  - Goldilocks
+---
+- ![[Pasted image 20240902152017.png]]
+- Expert burglar in deadly danger.
+- Has a 80s streetwear style.
+	- she sports a mane of blow-dried bleached hair, a torn jeans jacket, and lots of iridescent plastic bangles.
+- She is able to shape inanimate objects by declaring they are “too hot”, “too cold”, “too big”, “too small”, “too hard”, or “too soft”, which then becomes true.
+- She is mythically attracted to other's people's things
+	- [[Maximmillian Drake]] Counts on this for his death trap
+	- She is after a part of [[David Nguyen's]] fortune
+- She is an oportunist so she will try to use the crew.
+	- She will never try to hurt them
+- Make her taunting and humorous and not tragic.
+- She knows a lot of [[David Nguyen]], she has been doing her research.
+- She also knows all the public details of his involvement with Pauline and [[Ellie Woodworth]], given under [[Rondo’s Diner and Shinobi Sushi]], and can bring the PCs up to speed.

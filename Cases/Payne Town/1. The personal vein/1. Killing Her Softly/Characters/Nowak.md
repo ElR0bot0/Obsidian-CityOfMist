@@ -1,0 +1,2 @@
+- Deaf and mute guy rift of the ghost of christmas yet to come
+- ![[Pasted image 20240829143702.png]]

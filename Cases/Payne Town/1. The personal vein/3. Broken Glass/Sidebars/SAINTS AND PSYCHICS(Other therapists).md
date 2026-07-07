@@ -1,0 +1,11 @@
+With so much mental and emotional energy going around, the crew may wish to enlist other Rifts or Sleeper professionals to help bear the psychic load. Here are a few options.
+
+First, not all City therapists are evil Mending the Broken psychos. Geraldine Granger (Sleeper) is one of many kind-hearted mental health professionals who truly want to help their clients. Geraldine knows all about trauma and how to emerge from it, and she has taken this journey both personally and as a guide many times. If they can trust her, Rifts will feel she can relate to them even without seeing their powers because ultimately their problems are human problems.
+
+The challenge lies in convincing Geraldine that Mending the Broken are villainous; Geraldine is more likely to want to evaluate what’s wrong with the PCs lives that makes them dream up imaginary psycho-villains.
+
+If the crew is looking for a Rift psychic powerhouse, their best bet is with Rifts who work for the benign Avatar Ganesha and her Thousand Helping Hands (see Shadows & Showdowns). However, due to the nature of this story arc, explained under Payne and Other Avatars (page 16), Ganesha and her Rifts may be prevented from helping. That said, Ganesha and most of her Rifts are helpful renegades by nature, and refusing to give help would put them in a precarious position with their Mythos. They will most likely try to wriggle out of helping, but give in and play along if the crew is persistent.
+
+Another alternative is the mystic-Rift-for-hire known as the Thaumaturge (Grigori Rasputin, personal healer and mystic of the last tsar family of Russia), easily reachable by streetwise Rifts who frequent the Industrial Zone. The Thaumaturge boasts impressive psychic powers; he manipulates minds as deftly as he does knives, and can heal, protect, deep probe, shut down, and even wipe out multiple minds around him.
+
+The oddball mystic-in-a-trenchcoat doesn’t work for free. He will ask for a hefty sum, or a peculiar Relic, for his services. Another issue is his questionable allegiance; he’s not below saving his own skin and leaving the crew to die if things get too dangerous.

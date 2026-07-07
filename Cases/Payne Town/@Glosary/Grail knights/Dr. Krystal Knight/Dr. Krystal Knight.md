@@ -1,0 +1,14 @@
+- She has a broken mirror given to her by [[Corbin Payne]]
+	- a relic of the devil's mirror in the tale of **the snow queen**
+	- it reflects her sef-loathing and contempt
+	- She can amass hate on the mirror
+		- When she has amassed enough she will disseminate its magic through glass-made objects throughout the city.
+		- This is possible because she was given [[Aurora Glassworks]] as a gift from Corbin payne
+- She is filled with pain
+	- She cannot direct it to her abuser so
+	- She directs it to herself an her kin, the city's rifts
+- She has a therapist association called [[Mending the broken]]
+- She is planning her attack on the city from [[The Asylum]]
+	- She was a patient there after an encounter with the Fisher King decades ago
+	- Since then she has taken over and has amde it her base of operations as she impersonates the head of the institute.
+- ![[Pasted image 20240906135047.png]]

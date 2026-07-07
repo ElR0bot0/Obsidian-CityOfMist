@@ -1,0 +1,1 @@
+Owner of [[Out of this world, Spa Hotel]]

@@ -1,0 +1,3 @@
+- A previously famous construction Tycoon of the past that has fallen out of public memory
+- He is now the Avatar of The fisher king and he is now the keeper of the [[Holy grail]]
+- He perpetuates and incites the cicles of pain that plague the city via his grail knights.

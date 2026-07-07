@@ -1,0 +1,1 @@
+Someone got greyed out by the gatekeepers, probably the monkey paw girl

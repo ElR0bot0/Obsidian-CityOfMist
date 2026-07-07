@@ -1,0 +1,9 @@
+```
+Martha Ellis’s so-called dressing room smells of dead flowers and alcohol. The small, cramped converted storage room at the back of the Washboard was probably all the owners could spare to satisfy the diva’s demands. The walls are lined with newspaper cutouts and posters of her glorious past. The title “Downtown’s Most Soulful Voice” seems to stick out. Under the vanity, there’s a bin with dozens of small plastic liquor bottles. The poor soul was just starting to pull her threadbare life together, and now this.
+```
+# Background
+Searching Martha’s dressing room at the Washboard could provide some insight into the singer’s past, but it’s not easy to access. When she’s not there, the room’s door is locked-2 and Sammy or Syrus are always watchful-2, mindful of anyone snooping around the back rooms.
+# Clues
+- Some of the newspaper clips on the walls have parts that were cut out or redacted with a black marker. Comparing to the originals (perhaps through microfilm research) will show these are the sections where Ellis is criticized for her over-emotional performance.
+- **Beyond the Mist,** the dressing room has a faint print of the Banshee Mythos, represented as a vision of a melancholic bog, with faint trills of a tin whistle in the distance.
+- In a locked drawer, among lots of memorabilia, there’s the calling card of a therapist, Dr. Selma Perrin, of a therapist association called Mending The Broken. If the crew calls Dr. Perrin, she may reveal details of Ellis’ troubled past to get rid of them. If she realizes they are Rifts, she may take an interest in them, inviting them to meet her. See a possible encounter with a [[Mending the broken therapist]] in the case [[Broken Glass]] (page 68)![[Business Card.png]]

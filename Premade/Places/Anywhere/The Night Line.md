@@ -1,0 +1,1 @@
+A supersonic bus driven by [[Henry]] that goes around the city picking up anyone that needs to rest or disappear. It has no destination and no stops but it has a way to finding the people who need it.

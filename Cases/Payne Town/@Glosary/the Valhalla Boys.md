@@ -1,0 +1,3 @@
+- (Varangian Guard, an elite unit of Norse warriors who served as the personal bodyguard of the Byzantine Emperor)
+- The Valhalla Boys are run-of-the-mill mercenaries, usually dressed in a mixture of military and leather that perfectly marries functionality with intimidation. Tactically-trained and battle-hardened both in their Mythos and in their mundane training, they’re capable of taking out most low- to mid-power Rift teams they face. The Valhalla boys wield shotguns, crossbows, throwing axes, and grenades.
+![[Pasted image 20240829083643.png]]

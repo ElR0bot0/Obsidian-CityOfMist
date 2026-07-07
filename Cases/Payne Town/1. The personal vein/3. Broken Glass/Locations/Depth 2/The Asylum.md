@@ -1,0 +1,43 @@
+```
+As you ascend up the hill, the weather takes a turn for the worse. Clouds huddle together like black sheep, and it gets cold. Soon, the rain turns to slush, and then to snowflakes, softly piling on your car. Up above, between the ever-greens, you see a menacing old manor, buried under the snow. As you approach the Municipal Institute for the Criminally Insane, lightning crackles behind it, lighting it up like a fairytale ice castle.
+```
+# Background
+The Municipal Institute for the Criminally Insane, also simply known as the Asylum, is a three-story red brick building set on an isolated, wooded hill on the outskirts of town, overlooking a peaceful suburb. As fitting for her ‘palace’, the Asylum and everyone in it serve the Snow Queen, Dr. Krystal Knight. Furthermore, those who approach the Asylum find it’s snowing there, although it may not look so from afar.
+
+The Asylum can be the setting for many different types of scenes: the crew may come here to investigate, apprehend Mending the Broken practitioners, mount a heist to extract someone or find evidence, wake up as locked-up patients, and so on.
+## ARRIVING AT THE ASYLUM
+As a cinematic device, you can establish an atmosphere of dread by causing the crew to crash or almost crash their vehicle (or another mode of transportation) on the way to the Asylum. Describe the car skidding on **black ice** or a **slippery road** toward a tall and hardy fir tree. The driver or other PCs can Take the Risk to avoid an accident. If the car does crash, broken ice shards and blood on the snow make for great visual motifs. Either way, the PCs’ arrival at the Asylum starts with an air of danger.
+## THE PERIMETER
+The Asylum, designed to hold the “criminally insane”, is effectively a prison. It is surrounded by a tall brick wall topped with **barbed wire** with a single wroughtiron gate at the front and a small locked door in the back by the woods. There are security cameras on the perimeter wall. Behind it stretches a barren yard of brown, wilted grass, covered in frost and snow.
+
+All entrances have sally ports (double door airlocks) with cameras; anyone crossing must be buzzed in or out remotely from the guard room. Forcing the doors open raises the alarm but otherwise security systems are outdated. PCs can cross these obstacles with a series of Investigate, Sneak Around, and Take the Risk moves. There are no security guards patrolling out in the yard, but they do patrol inside (use the Asylum Nurse Danger on page 70 for both nurses and guards)
+## THE FLOORPLAN
+The Asylum building is U-shaped, with a smaller main building at the center and two wings stretching inwards along the sides of the perimeter.
+
+**The main building** holds the reception, administrative offices, guard barracks, and the guard room. The security guards monitor the perimeter of the Asylum, and only deal with the patients in case one of them tries to escape.
+
+**The South Wing** holds most of the miserable patients who call this place a home, many of whom are far from criminally-minded and suffering from mental health conditions far worse than they had when they first arrived. Patients are kept in rooms that were once white, clean, and pretty, designed not to look like the prison cells they essentially are; the lock to each room’s door is electrically controlled via the wing’s nurses room. Otherwise, movement within this ward is less restricted than elsewhere, but there are **watchful-1** nurses everywhere
+
+**The North Wing** holds the hospital ward where therapeutic experimentation is conducted, and where the most problematic cases are held in solitary confinement in the basement. This is also where the session rooms are located, where Mending the Broken activity takes place. The third, middle floor of this wing is dedicated to the “Special” Ward, where the head of the facility, Dr. Esther Monahan (aka Dr. Krystal Knight), usually works.
+
+## THE PATIENTS, THE STAFF, AND DR. MONAHAN
+The Asylum is manned by a receptionist, guards, nurses, and the Mending the Broken psychiatrists and psychologists. Everyone who works or is hospitalized at the Asylum knows Dr. Esther Monahan is the head of the institute and chief psychiatrist here and, if Investigated, are first revealed to be **scared-to-death-3** of her (limiting what the PCs can glean from them). When asked to identify the head of the institute, they will give conflicting reports:
+- Some have never seen her.
+- Some newly-hired staff or new patients who have seen Dr. Knight are sure she is Dr. Monahan. They don’t know her age, but estimate she’s in her late 40s.
+- Others, who worked or lived there longer, but have never seen Dr. Knight, think Dr. Monahan must look like an elderly woman close to a hundred years old (as the real Dr. Monahan would look like today), who nevertheless keeps working vigorously.
+- Those who know the full story (mostly Mending the Broken elders) refer to Krystal Knight as Dr. Monahan, but lie about her identity to help cover it up and cover their hinds.
+- An old patient suffering from a delusion-inducing condition may be telling the truth, but embellishes the story to the point of losing credibility (I think she’s a time traveller!).
+## SOLITARY CONFINEMENT
+**Dr. Knight doesn’t usually enjoy just killing her enemies; she prefers to infect them with self- or Rift-hatred and see how much damage they can do.** If any PCs and/or NPCs are hospitalized, they wake up in the basement of the North Wing in separate but adjacent padded solitary confinement cells, where the temperature is slightly below freezing (giving them **freezing-1** every hour they spend there from the moment they awaken). Particularly difficult patients find themselves in a straitjacket (**restrained-3**), while those who were sedated feel **woozy-1** or have a **headache-1**. Furthermore, all patients have **no-legal-rights-5**. They cannot see or hear one another through the walls, except when the shutter on the door is open from outside the cell. The cells have **armored doors** that are covered with **strange, reflective ice** that can cause magic and energy to rebound.
+## THE OLD “PRISONER IN THE NEXT CELL” PLOY
+Krystal Knight may try to deceive the crew by pretending to be an abused patient (it shouldn’t be hard; she was one for many many years). She locks herself up in a solitary confinement cell next to them, leaving the shutter open so they can hear her weep. As they escape, she begs them to set her free; if they do, she pretends to be their ally or guide. She presents herself by her real name. As a part of her cover story, she may also inadvertently reveal some accurate information about her past.
+
+Krystal Knight will try to get the crew to open up and expose their hurts, gripes, and anger to her so she can later fan them. As the crew spends more and more time with her, she insidiously penetrates their minds; for every scene or downtime in her presence, choose one PC present and activate the Dark Thoughts custom move against them (see Mending the Broken Therapist, page 68).
+# Clues
+- Dr. Monahan spends most of her time in the Special Ward, on the third floor of the North Wing. In fact, no one in the Asylum ever sees her coming or going
+- The door to the last cell in the block is completely frozen, encased in a block of ice. If it can be opened, the frozen and mutilated body of the real Dr. Monahan can be found inside. Forensic analysis will show she died years ago.
+## THE PATIENT FILES 
+Accessing the Asylum file system, whether it is a cabinet or a hard drive, reveals the patient files.
+- Every victim (“patient”) of Mending the Broken is recorded here, including Martha Ellis (Killing Her Softly), Maximillian Drake (Carnival of Machines), Felicia Pema Jones, Ruben Stone, and any other character, PC or NPC, who came in contact with the organization. The files contain an analysis of the Rift’s life, Mythos, and abilities.
+- Dr. Krystal Knight’s file is here, but it’s buried deep. It contains a picture of the woman who many know today as Dr. Esther Monahan. According to the file, Dr. Knight was admitted by Dr. Monahan almost a century ago (about 80 years) after she had a “nervous breakdown”. The file is overflowing with reports of the long list of forced treatments she’s been through, including experimental psychoactive drugs, shock therapy, and a failed lobotomy.
+- Dr. Krystal Knight’s file also contains a single document indicating she was and remains the majority shareholder of Aurora Glassworks, a glass manufacturer.

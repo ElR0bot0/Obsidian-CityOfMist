@@ -1,0 +1,1 @@
+THe manager of [[The Truth]] and legendary rift of [[Janus]].

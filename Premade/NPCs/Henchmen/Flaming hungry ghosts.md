@@ -1,0 +1,2 @@
+
+![[Flaming hungry ghosts.png]]

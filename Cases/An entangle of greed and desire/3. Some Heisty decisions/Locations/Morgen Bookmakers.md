@@ -1,0 +1,5 @@
+```
+A curling fogbank of cigarette smoke and constant chatter fill the air of this obscure den of iniquity. Below the smoke, this old-timers’ betting hall snugly holds a dozen round tables, where an assortment of unscrupulous gamblers of every description sit and discuss their wagers. Several TV screens scattered around the hall show a live feed of the odds offered by the house and the bets placed. Every now and then someone shouts angrily at a screen. At times, a strange, tense silence takes over the room for a while, until cries of joy and sighs of loss fill the air for a moment and the place regains its zest. Around the corner, a party of patrons plays darts to pass the time until their bets are called.
+---
+Every now and then, a patron ganders as casually as they can to a hatch in the wall where, behind an armored glass screen, sits a heavyset man in a dress shirt, with strong hairy arms and a dark bristling moustache.
+```

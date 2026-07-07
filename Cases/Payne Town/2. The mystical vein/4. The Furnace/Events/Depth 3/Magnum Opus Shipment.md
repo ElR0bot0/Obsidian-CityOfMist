@@ -1,0 +1,9 @@
+**The following scene connects directly to the subsequent cases in the Mystical Vein, Cult of the God-King and The Alchemist. Use it only when you’re ready to have the crew start investigating these cases. If you are playing case-by-case, it should be played at the end of this case**
+# Background
+**The factory is a nexus of the Mystical Vein where all three cases meet.** Magnum Opus, Armand’s cult, needs the furnace to extract Ichor from Rifts, with which they feed their master’s alchemical search after the Elixir of Life. Roughly once a month, they arrive to collect the Ichor and drive it to the [[Canseliet Manor]], where Armand’s lab is located (described in The Alchemist). On that occasion, if they have newly-awakened Rifts from [[The Catacombs]] (the “Lambs”, described in Cult of the God-King), they bring them shackled and blindfolded to the factory to be burned in the furnace.
+
+The forced-Rifts are later released to live their lives, minus their Mythos soul, and Magnum Opus picks up their Ichor the following month.
+
+Each such shipment is therefore a high-stakes, maximum-security operation for the cult. At the very least, a group of Armand’s Disciples (see The Alchemist, page 157) is operating the truck and securing the exchange. If the cult is on high alert and expecting problems, or if you simply want to increase the difficulty of disrupting its operations, the Yakuza Yōkai, assassins who pledged themselves to Armand in exchange for demonic powers (see Cult of the God-King, page 122), will be watching over the truck in close proximity.
+
+Following the truck or sabotaging the exchange could lead to either of the other two cases in the vein. This scene can also be played after a showdown in [[The Gingerbread House]] Enclave, whereby the Magnum Opus cultists arrive to find Rachel overthrown, collect the PCs’ Ichor, or both.

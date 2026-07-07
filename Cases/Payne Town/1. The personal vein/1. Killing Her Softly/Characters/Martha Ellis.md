@@ -1,0 +1,9 @@
+- A Famous jazz singer
+- Rift of the banshee
+- Her powers gave her control over people's emotions, specifically the somber and bad ones
+	- Due to this less people came to ehr shows due to bad experiences.
+		- This made her fall into alcoholism
+- She seeked help in the [[Mending the broken]] institution
+	- She was attended by [[Dr. Selma Perrin]] 
+		- She convinces Martha that she can use her powers to help people feel the sorrow and pain they have supressed and that its her duty to do so.
+- ![[Pasted image 20240829145113.png]]
