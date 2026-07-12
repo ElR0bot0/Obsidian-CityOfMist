@@ -22,12 +22,40 @@
 # Checklist
 ## TODO
 - [ ] Leer [[Cult of the God King]]
-- [ ] Poner al colector en la partida
-- [ ] Organizar esto de los clanes:
+- [x] Poner al colector en la partida
+- [x] Organizar esto de los clanes:
 	- Mercury clan attempts to understand before acting and searches for deeper meanings. 
 	- Mars clan goes full force straight on. 
 	- Jupiter clan is all about resourcefulness and quick thinking.
 	- Venus clan is about endurance and longevity.
+- [x] terminar de preparar el apocalipsis
+	-  El cult of the God king quiere ir por la ruta del suicidio cuando se trata del dolor que causa el Fisher King. Acabarlo todo.
+	- Quieren despertar al Prober para hacer que explote el mundo
+		- Prof Clay quiere esto pro que perdio a alguien preciado para el
+		- Sabe sobre el prober por que el era compañero de universidad de el. Fue investigando sobre todo esto hasta que supo que necesitaba gente para poder ir directo a la base del asunto. 
+- [ ] Pensar en como entrelazar el backstory de cada personaje con alguna de las ramas que tenemos
+- [ ] cult of the god kind
+	- [x] Leeer el whirler's commune
+		- [x] Poner a Whirler
+		- [x] Poner el mapa
+	- [ ] Leer The feast of Fools
+	- [ ] Leer the Catacombs
+- [ ] Albion awakens
+	- [ ] Double Dragon
+		- [x] Map
+		- [x] Personajes
+	- [ ] Council of Concerned Citizens
+		- [x] Map
+		- [x] Personajes
+	- [ ] The Overgrown Ruin
+		- [x] Map
+		- [x] Personajes
+	- [ ] Celine Rowland's Lake House
+		- [x] Map
+		- [ ] Personajes
+	- [ ] Battle of Precinct 63
+		- [ ] Map
+		- [ ] Personajes
 ## Quick Checklist
 - [x] Leer esta lista
 - [ ] Hacer las cosas en esta lista

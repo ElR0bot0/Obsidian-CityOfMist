@@ -4,18 +4,22 @@
 - Mercury Psyenrgy stone
 ### Interests
 - Mercury Clan: Clan of rifts that are united by a duty
+	- Mercury clan attempts to understand before acting and searches for deeper meanings. 
 	- A small group of under twenty water/ice-aligned Rifts in the city. Not blood family, but close-knit and genuinely affectionate with one another. They respect Soren as the guardian of the Lighthouse and the Mercury Star. They often spend time together outside duty, especially through sailing trips and water-related activities.
 	- Mercury Lighthouse: 
 		- Pool of Visions
 - The other Clans(they are not enemies, just a little independent)
 	- Main:
 		- Mars (Fire)
+			- Mars clan goes full force straight on. 
 			- Relewiese Brand, Mars Protector 
 				- glamorous nightclub promoter; on-again, off-again romantic relationship with Soren
 		- Jupiter (Air)
+			- Jupiter clan is all about resourcefulness and quick thinking.
 			- Elias Tripp, Jupiter Protector 
 				- younger-brother dynamic; Soren is very protective of him
 		- Venus (Eearth)
+			- Venus clan is about endurance and longevity.
 			- Venita Sorel, Venus Protector 
 				- generally good terms; more reserved and keeps to herself
 - Dawn Covenant (Enemies)

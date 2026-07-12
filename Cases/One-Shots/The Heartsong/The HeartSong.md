@@ -48,7 +48,7 @@ El de
 - Victor holds a party with his friends, family and companions of which many have reasons to be mad at him, most of them relating to Amelia even if they do not know it.
 - Along the night all of his friends and family have told him how this woman has been a bad influence on him and the strain between their words and Amelia's powers takes a toll on his heart and ends up making him have a heart attack in the middle of the room.
 - Amelia takes some poison that she knew she could use when she got all of the fortune of Victor on his testament. 
-# Haciendo el [[@Templates/Iceberg|Iceberg]]
+# Haciendo el [[@/@Templates/Iceberg|Iceberg]]
 ## Lista de hooks
 - Los personajes son policias
 - Los personajes la seguridad de Victor

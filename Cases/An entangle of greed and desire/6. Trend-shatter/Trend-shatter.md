@@ -66,7 +66,7 @@ A online forum haw been circling around regarding Adam Drake. It is not known ho
 ### The whole truth
 
 ### Timeline
-# Haciendo el [[@Templates/Iceberg|Iceberg]]
+# Haciendo el [[@/@Templates/Iceberg|Iceberg]]
 ## Lista de hooks
 
 ## Iceberg time

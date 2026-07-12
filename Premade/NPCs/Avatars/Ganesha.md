@@ -55,7 +55,7 @@
 
 **A Thousand Helping Hands II:** Once you have been helped, you will be given an opportunity to pay the favor forward with a deed of equal effort. Take a <mark style="background: #BBFABBA6;">grateful</mark> status from which you cannot **Face Danger:** tier 1 if you asked for something small, tier 3 if you asked for something neither small nor great, and tier 5 if you asked for something great. You may not appeal to the benevolent force again before you pay the favor forward.
 ## Extra Themes
-![[@Imagenes/Extra Themes/SHEPHERD, HOYT, & DEVA.png]]
+![[@/@Imagenes/Extra Themes/SHEPHERD, HOYT, & DEVA.png]]
 ## Dangers
 1. [[Helpers|Helper]]
 2. [[Little City Mice]]

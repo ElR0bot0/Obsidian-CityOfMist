@@ -67,7 +67,7 @@ A crime is currently taking place, and the crew must stop it
 ### The whole truth
 
 ### Timeline
-# Haciendo el [[@Templates/Iceberg|Iceberg]]
+# Haciendo el [[@/@Templates/Iceberg|Iceberg]]
 ## Lista de hooks
 
 ## Iceberg time

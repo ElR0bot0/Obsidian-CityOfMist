@@ -8,7 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4eab2bc9f4608adf",
+            "id": "a96c16e0122ca410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Campagin 1/Sessiones e ideas/Prepping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prepping"
+            }
+          },
+          {
+            "id": "6d7d56aab095a10a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Groups/Campagin 1/Sessiones e ideas/ClipBoard.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ClipBoard.excalidraw"
+            }
+          },
+          {
+            "id": "273af1c618fbe00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +45,6 @@
               },
               "icon": "lucide-file",
               "title": "Soren Voda"
-            }
-          },
-          {
-            "id": "19dd8b3b857edc4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo se perdio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo se perdio"
-            }
-          },
-          {
-            "id": "a96c16e0122ca410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cases/Payne Town/2. The mystical vein/5. Cult of the God King/Personalized/Cult of the God King (C'U).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cult of the God King (C'U)"
             }
           }
         ],
@@ -208,9 +206,19 @@
               "icon": "lucide-ghost",
               "title": "smart-connections-view"
             }
+          },
+          {
+            "id": "4c32e5e88209a003",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -226,45 +234,48 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19dd8b3b857edc4a",
+  "active": "6d7d56aab095a10a",
   "lastOpenFiles": [
-    "@Imagenes/Danger profiles/Rifts and other mythical dangers/All-Out Media Attack.png",
-    "@Imagenes/Danger profiles/Rifts and other mythical dangers/Adanko Gyasi.png",
-    "@Imagenes/Danger profiles/Rifts and other mythical dangers/Abominations.png",
-    "@Imagenes/Danger profiles/Mythos power sets/WINGED CREATURE.png",
-    "@Imagenes/Danger profiles/Mythos power sets/WEAPON BEARER (RELIC).png",
-    "@Imagenes/Danger profiles/Mythos power sets/WARRIOR.png",
-    "@Imagenes/Danger profiles/Mythos power sets/TRICKSTER.png",
-    "@Imagenes/Danger profiles/Mythos power sets/THIEF.png",
-    "@Imagenes/Danger profiles/Mythos power sets/SWIFT-FOOTED.png",
-    "@Imagenes/Danger profiles/Mythos power sets/STORMBRINGER MYTHOS POWER SET.png",
-    "@Imagenes/Danger profiles/Mythos power sets/SORCERER OR WITCH.png",
-    "@Imagenes/Danger profiles/Mythos power sets",
-    "@Imagenes/Danger profiles/Mundane dangers/Locations & Hazards",
-    "@Imagenes/Danger profiles/Mundane dangers/Law Enforcement and security",
-    "@Imagenes/Danger profiles/Mundane dangers/Criminals",
-    "@Imagenes/Danger profiles/Mundane dangers/CityResidents",
-    "@Imagenes/Danger profiles/Mundane dangers",
-    "@Glosary/Mist.md",
-    "@Glosary/Codigos.md",
-    "@Glosary",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/weeping angel.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/Sana sana colita de rana.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/Mokuragaeshi.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/Grinch.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/Discordia.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts/CJ.md",
-    "@ cosas desorganizadas/Ideas sueltas/Rifts",
-    "@ cosas desorganizadas/Ideas sueltas",
+    "@/@Imagenes/Pasted Image 20260712092107_225.png",
+    "@",
+    "Groups/Campagin 1/Sessiones e ideas/ClipBoard.excalidraw.md",
+    "@/@Imagenes/Pasted Image 20260712093227_216.png",
+    "@/@Imagenes/Pasted Image 20260712092954_220.png",
+    "Groups/Campagin 1/Sessiones e ideas/Drawing Board.excalidraw.md",
+    "Groups/Campagin 1/Sessiones e ideas/Prepping.md",
     "Groups/Campagin 1/PCs/Soren Voda.md",
-    "Groups/Campagin 1/PCs/Rūkas Pamiršk(Decent Mistakes).md",
     "Todo se perdio.md",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/Alma verde Herbalist.png",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/Belay Theron.png",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/Amanda Barnes.png",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/All-Out Media Attack.png",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/Adanko Gyasi.png",
+    "@/@Imagenes/Danger profiles/Rifts and other mythical dangers/Abominations.png",
+    "@/@Imagenes/Danger profiles/Mythos power sets/WINGED CREATURE.png",
+    "@/@Imagenes/Danger profiles/Mythos power sets",
+    "@/@Imagenes/Danger profiles/Mundane dangers/Locations & Hazards",
+    "@/@Imagenes/Danger profiles/Mundane dangers/Law Enforcement and security",
+    "@/@Imagenes/Danger profiles/Mundane dangers/Criminals",
+    "@/@Imagenes/Danger profiles/Mundane dangers/CityResidents",
+    "@/@Imagenes/Danger profiles/Mundane dangers",
+    "@/@Glosary/Mist.md",
+    "@/@Glosary/Codigos.md",
+    "@/@Glosary",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/weeping angel.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/Sana sana colita de rana.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/Mokuragaeshi.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/Grinch.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/Discordia.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts/CJ.md",
+    "@/@ cosas desorganizadas/Ideas sueltas/Rifts",
+    "@/@ cosas desorganizadas/Ideas sueltas",
+    "Groups/Campagin 1/PCs/Rūkas Pamiršk(Decent Mistakes).md",
     "Cases/Payne Town/@Glosary/KenkuFM.md",
     "Dungeons/Chow Industries Skyscrapper.md",
-    "Dungeons",
     "Legends in the mist/Prep.md",
     "Mythos brainstorm/Mythology/Roman/Janus.md",
     "Mythos brainstorm/Mythology/Japanese/Benzaiten.md",
@@ -274,9 +285,6 @@
     "Mythos brainstorm/Mythology/Aztec/Tamoanchan.md",
     "Mythos brainstorm/Mythology/Aztec/Quetzalcoatl, the feathered serpent.md",
     "Mythos brainstorm/Tales/faerie mounts.md",
-    "Mythos brainstorm/History/Shaka Zulu.md",
-    "Mythos brainstorm/History/Queen Boudica.md",
-    "Mythos brainstorm/Literature/The White Rose of Wrocław.md",
     "PCs/Untitled.canvas"
   ]
 }

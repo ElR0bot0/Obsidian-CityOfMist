@@ -35,7 +35,7 @@
 ### The whole truth
 
 ### Timeline
-# Haciendo el [[@Templates/Iceberg|Iceberg]]
+# Haciendo el [[@/@Templates/Iceberg|Iceberg]]
 ## Lista de hooks
 
 ## Iceberg time
